@@ -122,6 +122,7 @@ h3 {
 @media (max-width: 540px) {
   /* For a screen < 540px, this CSS will be read */
   .container {
-    width: 300px;
+    /*width: 300px;*/
+    width: 100%;
   }
 }
